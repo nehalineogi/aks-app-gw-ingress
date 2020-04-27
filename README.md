@@ -4,6 +4,9 @@
 #
 https://nehalineogi.blogspot.com/
 #
+# Architecture Diagram
+![Architecture](aks-app-gw-architecture.JPG)
+#
 # Test Drive
 Fanout
 * http://colors.penguintrails.com
@@ -17,9 +20,6 @@ Virtual Host
 * http://green.penguintrails.com
 * http://blue.penguintrails.com
 * default-white
-
-# Architecture Diagram
-![Architecture](aks-app-gw-architecture.JPG)
 
 # Howto
 
