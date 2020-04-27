@@ -19,7 +19,7 @@ Virtual Host
 * default-white
 
 # Architecture Diagram
-![Architecture](aks-app-gw-ingress-controller.jpg)
+![Architecture](aks-app-gw-architecture.JPG)
 
 # Howto
 
